@@ -12,6 +12,7 @@ h1{
 
 body{
   background-color:#A9F5F2;
+  background-image:url('image/myimage.jpg');
 }
 
 p
@@ -54,6 +55,7 @@ section {
   color:white
   padding: 5px;
   background-color: #F6CECE;
+  
 }
 #beef
 {
